@@ -3,6 +3,10 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/yuri-petuchov-7961a313b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://www.instagram.com/webbulldog/"> <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="InstagramBadge"/></a>
-</div
+  </div>
   <img src="https://komarev.com/ghpvc/?username=YuryPetukhov&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hey guys, happy to see you on my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
