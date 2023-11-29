@@ -24,6 +24,7 @@
 
   - :zap: In my free time, I solve problems on Leetcode and read tech articles, and listen Vinyl 
 
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-petuchov-7961a313b/)
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-yurypetukhov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-petuchov-7961a313b/)
 </div>
-
+---
+### :hammer_and_wrench: Languages and Tools :
